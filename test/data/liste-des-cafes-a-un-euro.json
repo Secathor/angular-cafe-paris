@@ -1,0 +1,2909 @@
+[
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/42",
+        "fields": {
+            "salle": "-",
+            "nom": "le 1 cinq",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "172 rue de vaugirard 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.842467", "2.31085"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.31085", "48.842467"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/88",
+        "fields": {
+            "salle": "-",
+            "nom": "La Cagnotte",
+            "maj": "2012-06-27",
+            "arrondissement": "75020",
+            "adresse": "13 Rue Jean-Baptiste Dumay 75019 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.874538", "2.38775"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.38775", "48.874538"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/112",
+        "fields": {
+            "salle": "1",
+            "nom": "La Br\u00fblerie des Ternes",
+            "maj": "2012-10-18",
+            "arrondissement": "75005",
+            "adresse": "111 rue mouffetard 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.840624", "2.349753"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349753", "48.840624"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/81",
+        "fields": {
+            "salle": "-",
+            "nom": "Le bistrot de Ma\u00eblle et Augustin",
+            "maj": "2012-06-27",
+            "arrondissement": "75001",
+            "adresse": "42 rue coquill\u00e8re 75001 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.864535", "2.341001"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.341001", "48.864535"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/65",
+        "fields": {
+            "salle": "1",
+            "nom": "Institut des Cultures d'Islam",
+            "maj": "2012-10-22",
+            "arrondissement": "75018",
+            "adresse": "19-23 rue L\u00e9on 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.887597", "2.353475"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.353475", "48.887597"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/102",
+        "fields": {
+            "salle": "-",
+            "nom": "La Perle",
+            "maj": "2012-09-10",
+            "arrondissement": "75003",
+            "adresse": "78 rue vieille du temple 75003 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.859786", "2.360562"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.360562", "48.859786"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/117",
+        "fields": {
+            "salle": "-",
+            "nom": "Waikiki",
+            "maj": "2012-07-03",
+            "arrondissement": "75005",
+            "adresse": "10 rue d\"Ulm 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.844913", "2.345419"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.345419", "48.844913"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/132",
+        "fields": {
+            "salle": "1",
+            "nom": "L'Angle",
+            "maj": "2012-10-22",
+            "arrondissement": "75008",
+            "adresse": "28 rue de Ponthieu 75008 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.870992", "2.308796"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.308796", "48.870992"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/146",
+        "fields": {
+            "salle": "-",
+            "nom": "O'Paris",
+            "maj": "2013-08-14",
+            "arrondissement": "75020",
+            "adresse": "1 Rue des Envierges 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.87159", "2.38587"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.38587", "48.87159"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/1",
+        "fields": {
+            "salle": "1",
+            "nom": "Le Plomb du cantal",
+            "maj": "2012-10-22",
+            "arrondissement": "75014",
+            "adresse": "3 rue Ga\u00eet\u00e9 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.839653", "2.323554"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.323554", "48.839653"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/73",
+        "fields": {
+            "salle": "1",
+            "nom": "Le Supercoin",
+            "maj": "2012-10-22",
+            "arrondissement": "75018",
+            "adresse": "3, rue Baudelique 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.892255", "2.346987"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.346987", "48.892255"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/12",
+        "fields": {
+            "salle": "1",
+            "nom": "Le Centenaire",
+            "maj": "2012-10-22",
+            "arrondissement": "75011",
+            "adresse": "104 rue amelot 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.862667", "2.367472"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.367472", "48.862667"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/27",
+        "fields": {
+            "salle": "-",
+            "nom": "L'\u00c9cir",
+            "maj": "2012-09-10",
+            "arrondissement": "75014",
+            "adresse": "59 Boulevard Saint-Jacques 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.833524", "2.334252"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.334252", "48.833524"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/44",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Comptoir",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "354 bis rue Vaugirard 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.851348", "2.282597"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.282597", "48.851348"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/58",
+        "fields": {
+            "salle": "1",
+            "nom": "Les caves populaires",
+            "maj": "2012-10-22",
+            "arrondissement": "75017",
+            "adresse": "22 rue des Dames 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.884946", "2.325014"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.325014", "48.884946"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/72",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Saint Jean",
+            "maj": "2012-06-27",
+            "arrondissement": "75018",
+            "adresse": "23 rue des abbesses 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.88465", "2.337749"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.337749", "48.88465"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/78",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Pistache",
+            "maj": "2012-06-27",
+            "arrondissement": "75001",
+            "adresse": "9 rue des petits champs 75001 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.866267", "2.338748"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.338748", "48.866267"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/79",
+        "fields": {
+            "salle": "-",
+            "nom": "Etienne",
+            "maj": "2012-06-27",
+            "arrondissement": "75001",
+            "adresse": "14 rue Turbigo, Paris 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.863782", "2.348965"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.348965", "48.863782"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/80",
+        "fields": {
+            "salle": "1",
+            "nom": "La chaumi\u00e8re gourmande",
+            "arrondissement": "75016",
+            "adresse": "Route de la Muette \u00e0 Neuilly\nClub hippique du Jardin d\u0092Acclimatation 75016 Paris",
+            "terrasse": "-",
+            "maj": "2012-07-03",
+            "lat_lon": ["48.865501", "2.265531"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.265531", "48.865501"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/82",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Ragueneau",
+            "maj": "2012-06-27",
+            "arrondissement": "75001",
+            "adresse": "202 rue Saint-Honor\u00e9 75001 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.86271", "2.337701"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.337701", "48.86271"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/83",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Reynou",
+            "maj": "2012-06-27",
+            "arrondissement": "75001",
+            "adresse": "2 bis quai de la m\u00e9gisserie 75001 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.857526", "2.346477"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.346477", "48.857526"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/84",
+        "fields": {
+            "salle": "-",
+            "nom": "Peperoni",
+            "maj": "2012-06-27",
+            "arrondissement": "75001",
+            "adresse": "83 avenue de Wagram 75001 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.880241", "2.29951"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.29951", "48.880241"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/86",
+        "fields": {
+            "salle": "-",
+            "nom": "Au panini de la place",
+            "maj": "2012-07-03",
+            "arrondissement": "75020",
+            "adresse": "47 rue Belgrand 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.864619", "2.40806"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.40806", "48.864619"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/89",
+        "fields": {
+            "salle": "1",
+            "nom": "Les P\u00e8res Populaires",
+            "maj": "2012-10-18",
+            "arrondissement": "75020",
+            "adresse": "46 rue de Buzenval 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.851319", "2.4017"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.4017", "48.851319"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/90",
+        "fields": {
+            "salle": "-",
+            "nom": "Melting Pot",
+            "maj": "2012-06-27",
+            "arrondissement": "75020",
+            "adresse": "3 rue de Lagny 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.848878", "2.399968"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.399968", "48.848878"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/93",
+        "fields": {
+            "salle": "1",
+            "nom": "Chez Rutabaga",
+            "maj": "2012-10-22",
+            "arrondissement": "75002",
+            "adresse": "16 rue des Petits Champs 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.866728", "2.337163"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.337163", "48.866728"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/104",
+        "fields": {
+            "salle": "-",
+            "nom": "Chez Oscar",
+            "maj": "2012-06-27",
+            "arrondissement": "75004",
+            "adresse": "11/13 boulevard Beaumarchais 75004 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.85495", "2.368705"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.368705", "48.85495"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/115",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Descartes",
+            "maj": "2012-09-10",
+            "arrondissement": "75005",
+            "adresse": "1 rue Thouin 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.845058", "2.349585"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349585", "48.845058"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/137",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Brigadier",
+            "maj": "2012-09-10",
+            "arrondissement": "75009",
+            "adresse": "12 rue Blanche 75009 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.877591", "2.332101"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.332101", "48.877591"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/148",
+        "fields": {
+            "salle": "-",
+            "nom": "NoMa",
+            "maj": "2013-08-14",
+            "arrondissement": "75003",
+            "adresse": "39 rue Notre Dame de Nazareth 75003 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.867473", "2.357798"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.357798", "48.867473"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/10",
+        "fields": {
+            "salle": "-",
+            "nom": "L'ing\u00e9nu",
+            "maj": "2012-06-27",
+            "arrondissement": "75011",
+            "adresse": "184 bd Voltaire 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.857592", "2.380515"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.380515", "48.857592"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/43",
+        "fields": {
+            "salle": "1",
+            "nom": "Le caf\u00e9 des amis",
+            "maj": "2012-10-22",
+            "arrondissement": "75015",
+            "adresse": "125 rue Blomet 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.839759", "2.296905"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.296905", "48.839759"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/99",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Caf\u00e9 frapp\u00e9",
+            "maj": "2012-09-10",
+            "arrondissement": "75002",
+            "adresse": "95 rue Montmartre 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.867943", "2.343603"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.343603", "48.867943"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/125",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Malar",
+            "maj": "2012-07-03",
+            "arrondissement": "75007",
+            "adresse": "88 rue Saint-Dominique 75007 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.859553", "2.306448"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.306448", "48.859553"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/139",
+        "fields": {
+            "salle": "-",
+            "nom": "Le relais de la victoire",
+            "maj": "2012-09-10",
+            "arrondissement": "75009",
+            "adresse": "73 rue de la Victoire 75009 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.875217", "2.33296"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.33296", "48.875217"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/152",
+        "fields": {
+            "salle": "-",
+            "nom": "La Marine",
+            "maj": "2013-08-14",
+            "arrondissement": "75010",
+            "adresse": "55 bis quai de valmy 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.880597", "2.367573"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.367573", "48.880597"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/5",
+        "fields": {
+            "salle": "-",
+            "nom": "le chateau d'eau",
+            "maj": "2012-07-03",
+            "arrondissement": "75010",
+            "adresse": "67 rue du Ch\u00e2teau d'eau 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872726", "2.354611"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.354611", "48.872726"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/94",
+        "fields": {
+            "salle": "-",
+            "nom": "D\u00e9d\u00e9 la frite",
+            "maj": "2012-06-27",
+            "arrondissement": "75002",
+            "adresse": "52 rue Notre-Dame des Victoires 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.8698", "2.342534"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.342534", "48.8698"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/15",
+        "fields": {
+            "salle": "-",
+            "nom": "Panem",
+            "maj": "2012-11-05",
+            "arrondissement": "75011",
+            "adresse": "18 rue de Crussol 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "0.9",
+            "lat_lon": ["48.864245", "2.368519"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.368519", "48.864245"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/28",
+        "fields": {
+            "salle": "1",
+            "nom": "Le Couvent",
+            "maj": "2012-10-18",
+            "arrondissement": "75013",
+            "adresse": "69 rue Broca 75013 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.837243", "2.347078"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.347078", "48.837243"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/41",
+        "fields": {
+            "salle": "-",
+            "nom": "La Bauloise",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "36 rue du hameau 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.834081", "2.287307"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.287307", "48.834081"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/55",
+        "fields": {
+            "salle": "-",
+            "nom": "Caves populaires",
+            "maj": "2012-07-03",
+            "arrondissement": "75017",
+            "adresse": "22 rue des Dames 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.884946", "2.325014"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.325014", "48.884946"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/68",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Chaumontois",
+            "maj": "2012-07-03",
+            "arrondissement": "75018",
+            "adresse": "12 rue Armand Carrel 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.882879", "2.373714"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.373714", "48.882879"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/126",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Square",
+            "maj": "2012-07-03",
+            "arrondissement": "75007",
+            "adresse": "31 rue Saint-Dominique 75007 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.859034", "2.320335"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.320335", "48.859034"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/7",
+        "fields": {
+            "salle": "-",
+            "nom": "En attendant l'or",
+            "maj": "2012-06-27",
+            "arrondissement": "75011",
+            "adresse": "3 rue Faidherbe 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.850832", "2.384085"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.384085", "48.850832"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/8",
+        "fields": {
+            "salle": "-",
+            "nom": "Extra old caf\u00e9",
+            "maj": "2012-07-03",
+            "arrondissement": "75011",
+            "adresse": "307 fg saint Antoine 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.849004", "2.392644"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.392644", "48.849004"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/21",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Pierre",
+            "maj": "2012-07-03",
+            "arrondissement": "75012",
+            "adresse": "202 rue du faubourg st antoine 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.850629", "2.378827"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.378827", "48.850629"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/32",
+        "fields": {
+            "salle": "-",
+            "nom": "Au Vin Des Rues",
+            "maj": "2012-06-27",
+            "arrondissement": "75014",
+            "adresse": "21 rue Boulard 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.833159", "2.328354"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.328354", "48.833159"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/54",
+        "fields": {
+            "salle": "-",
+            "nom": "Bagels & Coffee Corner",
+            "maj": "2012-07-03",
+            "arrondissement": "75017",
+            "adresse": "Place de Clichy 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.883647", "2.327364"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.327364", "48.883647"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/76",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Bellerive",
+            "maj": "2012-06-27",
+            "arrondissement": "75019",
+            "adresse": "71 quai de Seine 75019 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.886671", "2.374552"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.374552", "48.886671"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/87",
+        "fields": {
+            "salle": "-",
+            "nom": "Chez Luna",
+            "maj": "2012-09-10",
+            "arrondissement": "75020",
+            "adresse": "108 rue de M\u00e9nilmontant 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.870198", "2.397025"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.397025", "48.870198"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/160",
+        "fields": {
+            "salle": "-",
+            "nom": "La Renaissance",
+            "maj": "2013-08-14",
+            "arrondissement": "75018",
+            "adresse": "112 Rue Championnet 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.895459", "2.349557"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349557", "48.895459"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/161",
+        "fields": {
+            "salle": "-",
+            "nom": "La Recoleta au Manoir",
+            "maj": "2013-08-14",
+            "arrondissement": "75020",
+            "adresse": "229 avenue Gambetta 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.874708", "2.40544"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.40544", "48.874708"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/95",
+        "fields": {
+            "salle": "1",
+            "nom": "Dr\u00f4le d'endroit Montorgueil",
+            "maj": "2012-10-22",
+            "arrondissement": "75002",
+            "adresse": "58 rue de Montorgueil 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.864968", "2.346927"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.346927", "48.864968"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/96",
+        "fields": {
+            "salle": "-",
+            "nom": "L'Entracte",
+            "maj": "2012-09-10",
+            "arrondissement": "75002",
+            "adresse": "place de l'opera 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.870462", "2.332384"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.332384", "48.870462"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/97",
+        "fields": {
+            "salle": "1",
+            "nom": "La Cordonnerie",
+            "maj": "2012-10-22",
+            "arrondissement": "75002",
+            "adresse": "142 Rue Saint-Denis 75002 Paris 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.862668", "2.349575"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349575", "48.862668"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/98",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Biz",
+            "maj": "2012-06-27",
+            "arrondissement": "75002",
+            "adresse": "18 rue Favart 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.871404", "2.338307"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.338307", "48.871404"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/100",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Cap Bourbon",
+            "maj": "2012-06-27",
+            "arrondissement": "75002",
+            "adresse": "1 rue Louis le Grand 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.86811", "2.3318"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.3318", "48.86811"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/101",
+        "fields": {
+            "salle": "1",
+            "nom": "Le Petit Choiseul",
+            "maj": "2012-10-22",
+            "arrondissement": "75002",
+            "adresse": "23 rue saint augustin 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.868833", "2.335952"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.335952", "48.868833"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/103",
+        "fields": {
+            "salle": "-",
+            "nom": "Le S\u00e9vign\u00e9",
+            "maj": "2012-09-10",
+            "arrondissement": "75003",
+            "adresse": "15 rue du Parc Royal 75003 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.858729", "2.362668"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.362668", "48.858729"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/105",
+        "fields": {
+            "salle": "-",
+            "nom": "l'El\u00e9phant du nil",
+            "maj": "2012-06-27",
+            "arrondissement": "75004",
+            "adresse": "125 Rue Saint-Antoine 75004 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.855169", "2.360245"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.360245", "48.855169"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/107",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Felteu",
+            "maj": "2012-06-27",
+            "arrondissement": "75004",
+            "adresse": "1 rue Pecquay 75004 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.859645", "2.355614"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.355614", "48.859645"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/108",
+        "fields": {
+            "salle": "-",
+            "nom": "La Br\u00fblerie des Ternes",
+            "maj": "2012-11-05",
+            "arrondissement": "75005",
+            "adresse": "111 rue Mouffetard 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.840624", "2.349753"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349753", "48.840624"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/109",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Lea",
+            "maj": "2012-06-27",
+            "arrondissement": "75005",
+            "adresse": "5 rue Claude Bernard 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.838644", "2.349933"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349933", "48.838644"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/110",
+        "fields": {
+            "salle": "-",
+            "nom": "Cardinal Saint-Germain",
+            "maj": "2012-06-27",
+            "arrondissement": "75005",
+            "adresse": "11 boulevard Saint-Germain 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.849301", "2.354504"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.354504", "48.849301"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/111",
+        "fields": {
+            "salle": "1",
+            "nom": "Invitez vous chez nous",
+            "maj": "2012-10-22",
+            "arrondissement": "75005",
+            "adresse": "7 rue Ep\u00e9e de Bois 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.841536", "2.35101"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.35101", "48.841536"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/113",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Caf\u00e9 d'avant",
+            "maj": "2012-09-10",
+            "arrondissement": "75005",
+            "adresse": "35 rue Claude Bernard 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.839691", "2.347273"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.347273", "48.839691"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/114",
+        "fields": {
+            "salle": "1",
+            "nom": "La Montagne Sans Genevi\u00e8ve",
+            "arrondissement": "75005",
+            "adresse": "13 Rue du Pot de Fer 75005 Paris",
+            "terrasse": "-",
+            "maj": "2012-10-22",
+            "lat_lon": ["48.843126", "2.34947"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.34947", "48.843126"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/116",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Tournebride",
+            "maj": "2012-06-27",
+            "arrondissement": "75005",
+            "adresse": "104 rue Mouffetard 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.8411", "2.349569"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349569", "48.8411"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/119",
+        "fields": {
+            "salle": "-",
+            "nom": "Les Vendangeurs",
+            "maj": "2012-07-03",
+            "arrondissement": "75006",
+            "adresse": "6/8 rue Stanislas 75006 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.843572", "2.327974"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.327974", "48.843572"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/120",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Lucernaire",
+            "maj": "2012-09-10",
+            "arrondissement": "75006",
+            "adresse": "53 rue Notre-Dame des Champs 75006 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.844232", "2.3304"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.3304", "48.844232"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/121",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 dans l'aerogare Air France Invalides",
+            "maj": "2012-07-03",
+            "arrondissement": "75007",
+            "adresse": "2 rue Robert Esnault Pelterie 75007 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.862378", "2.314916"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.314916", "48.862378"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/122",
+        "fields": {
+            "salle": "-",
+            "nom": "Cafe de grenelle",
+            "maj": "2012-09-10",
+            "arrondissement": "75007",
+            "adresse": "188 rue de Grenelle 75007 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.857657", "2.305639"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.305639", "48.857657"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/123",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Varenne",
+            "maj": "2012-06-27",
+            "arrondissement": "75007",
+            "adresse": "36 rue de Varenne 75007 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.854122", "2.323538"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.323538", "48.854122"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/124",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Bosquet",
+            "maj": "2012-09-10",
+            "arrondissement": "75007",
+            "adresse": "46 avenue Bosquet 75007 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.855999", "2.304588"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.304588", "48.855999"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/127",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 beauveau",
+            "maj": "2012-06-27",
+            "arrondissement": "75008",
+            "adresse": "9 rue de Miromesnil 75008 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.8718", "2.315999"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.315999", "48.8718"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/128",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 de la Mairie (du VIII)",
+            "maj": "2012-06-27",
+            "arrondissement": "75008",
+            "adresse": "rue de Lisbonne 75008 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.877429", "2.308181"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.308181", "48.877429"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/129",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Fronton",
+            "maj": "2012-06-27",
+            "arrondissement": "75008",
+            "adresse": "63 rue de Ponthieu 75008 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872265", "2.304458"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.304458", "48.872265"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/131",
+        "fields": {
+            "salle": "-",
+            "nom": "Les Arcades",
+            "maj": "2012-07-03",
+            "arrondissement": "75008",
+            "adresse": "61 rue de Ponthieu 75008 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872211", "2.304629"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.304629", "48.872211"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/133",
+        "fields": {
+            "salle": "1",
+            "nom": "O'Breizh",
+            "maj": "2012-10-22",
+            "arrondissement": "75008",
+            "adresse": "27 rue de Penthi\u00e8vre 75008 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872679", "2.31536"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.31536", "48.872679"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/134",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Zen",
+            "maj": "2012-11-05",
+            "arrondissement": "75009",
+            "adresse": "46 rue Victoire 75009 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.875203", "2.335284"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.335284", "48.875203"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/135",
+        "fields": {
+            "salle": "-",
+            "nom": "L'anjou",
+            "maj": "2012-07-03",
+            "arrondissement": "75009",
+            "adresse": "1 rue de Montholon 75009 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.876542", "2.348657"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.348657", "48.876542"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/136",
+        "fields": {
+            "salle": "1",
+            "nom": "La Brocante",
+            "maj": "2012-10-22",
+            "arrondissement": "75009",
+            "adresse": "10 rue Rossini 75009 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.873165", "2.339198"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.339198", "48.873165"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/138",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Dellac",
+            "maj": "2012-06-27",
+            "arrondissement": "75009",
+            "adresse": "14 rue Rougemont 75009 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872114", "2.346151"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.346151", "48.872114"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/140",
+        "fields": {
+            "salle": "1",
+            "nom": "Le chantereine",
+            "maj": "2012-10-22",
+            "arrondissement": "75009",
+            "adresse": "51 Rue Victoire 75009 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.875203", "2.335284"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.335284", "48.875203"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/141",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Varenne",
+            "maj": "2013-08-13",
+            "arrondissement": "75007",
+            "adresse": "36 rue de Varenne 75007 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.854122", "2.323538"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.323538", "48.854122"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/143",
+        "fields": {
+            "salle": "-",
+            "nom": "Le caf\u00e9 Monde et M\u00e9dias",
+            "maj": "2013-08-14",
+            "arrondissement": "75003",
+            "adresse": "Place de la R\u00e9publique 75003 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.86763", "2.363953"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.363953", "48.86763"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/144",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Zazabar",
+            "maj": "2013-08-14",
+            "arrondissement": "75020",
+            "adresse": "116 Rue de M\u00e9nilmontant 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.870198", "2.397025"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.397025", "48.870198"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/145",
+        "fields": {
+            "salle": "-",
+            "nom": "O q de poule",
+            "maj": "2013-08-14",
+            "arrondissement": "75018",
+            "adresse": "53 rue du ruisseau 75018 Paris",
+            "terrasse": "1",
+            "comptoir": "1",
+            "lat_lon": ["48.894831", "2.340746"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.340746", "48.894831"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/147",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 rallye tournelles",
+            "maj": "2013-08-14",
+            "arrondissement": "75005",
+            "adresse": "11 Quai de la Tournelle 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.850725", "2.352605"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.352605", "48.850725"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/149",
+        "fields": {
+            "salle": "-",
+            "nom": "La cantoche de Paname",
+            "maj": "2013-08-14",
+            "arrondissement": "75011",
+            "adresse": "40 Boulevard Beaumarchais 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "0.9",
+            "lat_lon": ["48.860587", "2.36735"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.36735", "48.860587"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/150",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Clochette",
+            "maj": "2013-08-14",
+            "arrondissement": "75010",
+            "adresse": "16 avenue Richerand 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872417", "2.366534"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.366534", "48.872417"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/151",
+        "fields": {
+            "salle": "-",
+            "nom": "American Kitchen",
+            "maj": "2013-08-14",
+            "arrondissement": "75010",
+            "adresse": "49 rue bichat 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872749", "2.366409"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.366409", "48.872749"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/153",
+        "fields": {
+            "salle": "-",
+            "nom": "Brasserie le Morvan",
+            "maj": "2013-08-14",
+            "arrondissement": "75010",
+            "adresse": "61 rue du ch\u00e2teau d'eau 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.872506", "2.35516"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.35516", "48.872506"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/155",
+        "fields": {
+            "salle": "-",
+            "nom": "L'In\u00e9vitable",
+            "maj": "2013-08-14",
+            "arrondissement": "75005",
+            "adresse": "22 rue Linn\u00e9 75005 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.845448", "2.354784"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.354784", "48.845448"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/156",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Pas Sage",
+            "maj": "2013-08-14",
+            "arrondissement": "75002",
+            "adresse": "1 Passage du Grand Cerf 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.864669", "2.350033"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.350033", "48.864669"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/157",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Dunois",
+            "maj": "2013-08-14",
+            "arrondissement": "75013",
+            "adresse": "77 rue Dunois 75013 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.833305", "2.365767"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.365767", "48.833305"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/158",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Saint Ren\u00e9",
+            "maj": "2013-08-14",
+            "arrondissement": "75020",
+            "adresse": "148 Boulevard de Charonne 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.855331", "2.395111"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.395111", "48.855331"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/0",
+        "fields": {
+            "salle": "-",
+            "nom": "Chez Prune",
+            "maj": "2012-07-03",
+            "arrondissement": "75010",
+            "adresse": "36 rue Beaurepaire 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.871582", "2.364489"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.364489", "48.871582"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/2",
+        "fields": {
+            "salle": "-",
+            "nom": "Chez Fafa",
+            "maj": "2012-07-03",
+            "arrondissement": "75010",
+            "adresse": "44 rue Vinaigriers 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.873171", "2.361382"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.361382", "48.873171"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/3",
+        "fields": {
+            "salle": "1",
+            "nom": "Epicerie Musicale",
+            "maj": "2012-10-22",
+            "arrondissement": "75010",
+            "adresse": "55bis quai de Valmy 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.880597", "2.367573"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.367573", "48.880597"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/4",
+        "fields": {
+            "salle": "-",
+            "nom": "La cantine de Zo\u00e9",
+            "maj": "2012-07-03",
+            "arrondissement": "75010",
+            "adresse": "136 rue du Faubourg poissonni\u00e8re 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.880656", "2.349951"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349951", "48.880656"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/91",
+        "fields": {
+            "salle": "-",
+            "nom": "Au cerceau d'or",
+            "maj": "2012-06-27",
+            "arrondissement": "75002",
+            "adresse": "129 boulevard sebastopol 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.868064", "2.353335"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.353335", "48.868064"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/92",
+        "fields": {
+            "salle": "-",
+            "nom": "Br\u00fblerie San Jos\u00e9",
+            "maj": "2012-06-27",
+            "arrondissement": "75002",
+            "adresse": "30 rue des Petits-Champs 75002 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.866998", "2.336005"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.336005", "48.866998"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/13",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Plein soleil",
+            "maj": "2012-07-03",
+            "arrondissement": "75011",
+            "adresse": "90 avenue Parmentier 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.859144", "2.379467"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.379467", "48.859144"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/25",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Killy Jen",
+            "maj": "2012-06-27",
+            "arrondissement": "75012",
+            "adresse": "28 bis boulevard Diderot 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.846582", "2.38004"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.38004", "48.846582"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/37",
+        "fields": {
+            "salle": "-",
+            "nom": "maison du vin",
+            "maj": "2012-06-27",
+            "arrondissement": "75014",
+            "adresse": "52 rue des plantes 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.827594", "2.32099"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.32099", "48.827594"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/49",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Piquet",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "48 avenue de la Motte Picquet 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.849273", "2.29823"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.29823", "48.849273"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/61",
+        "fields": {
+            "salle": "-",
+            "nom": "Trois pi\u00e8ces cuisine",
+            "maj": "2012-07-03",
+            "arrondissement": "75017",
+            "adresse": "101 rue des dames 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.88294", "2.318064"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.318064", "48.88294"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/85",
+        "fields": {
+            "salle": "-",
+            "nom": "Ragueneau",
+            "maj": "2012-11-05",
+            "arrondissement": "75001",
+            "adresse": "202 rue Saint Honor\u00e9 75001 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.86271", "2.337701"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.337701", "48.86271"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/159",
+        "fields": {
+            "salle": "1",
+            "nom": "Chez Miamophile",
+            "maj": "2013-08-14",
+            "arrondissement": "75019",
+            "adresse": "6 rue M\u00e9lingue 75019 Paris",
+            "terrasse": "1",
+            "comptoir": "1",
+            "lat_lon": ["48.874871", "2.386056"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.386056", "48.874871"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/106",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Caf\u00e9 Livres",
+            "maj": "2012-09-10",
+            "arrondissement": "75004",
+            "adresse": "10 rue Saint Martin 75004 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.857739", "2.349633"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.349633", "48.857739"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/118",
+        "fields": {
+            "salle": "-",
+            "nom": "L'avant comptoir",
+            "maj": "2012-07-03",
+            "arrondissement": "75006",
+            "adresse": "3 carrefour de l'Od\u00e9on 75006 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.852088", "2.338676"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.338676", "48.852088"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/130",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Relais Haussmann",
+            "maj": "2012-07-03",
+            "arrondissement": "75008",
+            "adresse": "146, boulevard Haussmann 75008 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.875313", "2.312324"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.312324", "48.875313"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/142",
+        "fields": {
+            "salle": "-",
+            "nom": "La Brasserie Gait\u00e9",
+            "arrondissement": "75014",
+            "adresse": "3 rue de la Gait\u00e9 75014 Paris",
+            "terrasse": "1",
+            "maj": "2013-08-13",
+            "lat_lon": ["48.839653", "2.323554"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.323554", "48.839653"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/154",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Bloc",
+            "maj": "2013-08-14",
+            "arrondissement": "75017",
+            "adresse": "21 rue  Brochant 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.889475", "2.31867"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.31867", "48.889475"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/6",
+        "fields": {
+            "salle": "-",
+            "nom": "Le sully",
+            "maj": "2012-06-27",
+            "arrondissement": "75010",
+            "adresse": "13 rue du Faubourg Saint Denis 75010 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.878399", "2.357037"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.357037", "48.878399"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/9",
+        "fields": {
+            "salle": "-",
+            "nom": "L'horizon",
+            "maj": "2012-07-03",
+            "arrondissement": "75011",
+            "adresse": "93, rue de la Roquette 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.857641", "2.379998"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.379998", "48.857641"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/11",
+        "fields": {
+            "salle": "-",
+            "nom": "La Caravane",
+            "maj": "2012-11-05",
+            "arrondissement": "75011",
+            "adresse": "Rue de la Fontaine au Roi 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "0.9",
+            "lat_lon": ["48.869225", "2.377464"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.377464", "48.869225"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/14",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Pure caf\u00e9",
+            "maj": "2012-07-03",
+            "arrondissement": "75011",
+            "adresse": "14 rue Jean Mac\u00e9 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.853241", "2.383423"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.383423", "48.853241"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/16",
+        "fields": {
+            "salle": "-",
+            "nom": "Pause Caf\u00e9",
+            "maj": "2012-07-03",
+            "arrondissement": "75011",
+            "adresse": "41 rue de Charonne 75011 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.853922", "2.382007"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.382007", "48.853922"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/17",
+        "fields": {
+            "salle": "-",
+            "nom": "Assaporare Dix sur Dix",
+            "maj": "2012-06-27",
+            "arrondissement": "75012",
+            "adresse": "75, avenue Ledru-Rollin 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.850096", "2.374636"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.374636", "48.850096"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/18",
+        "fields": {
+            "salle": "-",
+            "nom": "Au pays de Vannes",
+            "maj": "2012-06-27",
+            "arrondissement": "75012",
+            "adresse": "34 bis rue de Wattignies 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.83515", "2.39889"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.39889", "48.83515"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/19",
+        "fields": {
+            "salle": "-",
+            "nom": "Aux cadrans",
+            "maj": "2012-06-27",
+            "arrondissement": "75012",
+            "adresse": "21 ter boulevard Diderot 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.846582", "2.38004"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.38004", "48.846582"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/20",
+        "fields": {
+            "salle": "-",
+            "nom": "Bistrot Saint-Antoine",
+            "maj": "2012-06-27",
+            "arrondissement": "75012",
+            "adresse": "58 rue du Fbg Saint-Antoine 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.851928", "2.373238"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.373238", "48.851928"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/22",
+        "fields": {
+            "salle": "-",
+            "nom": "L'empreinte",
+            "maj": "2012-07-03",
+            "arrondissement": "75012",
+            "adresse": "54, avenue Daumesnil 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.84534", "2.379043"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.379043", "48.84534"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/23",
+        "fields": {
+            "salle": "1",
+            "nom": "La Libert\u00e9",
+            "maj": "2012-10-22",
+            "arrondissement": "75012",
+            "adresse": "196 rue du faubourg saint-antoine 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.850629", "2.378827"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.378827", "48.850629"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/24",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Chat bossu",
+            "maj": "2012-09-10",
+            "arrondissement": "75012",
+            "adresse": "126, rue du Faubourg Saint Antoine 75012 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.850649", "2.378398"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.378398", "48.850649"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/26",
+        "fields": {
+            "salle": "-",
+            "nom": "L'\u00e2ge d'or",
+            "maj": "2012-07-03",
+            "arrondissement": "75013",
+            "adresse": "26 rue du Docteur Magnan 75013 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.826393", "2.359942"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.359942", "48.826393"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/29",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Kleemend's",
+            "maj": "2012-07-03",
+            "arrondissement": "75013",
+            "adresse": "34 avenue Pierre Mend\u00e8s-France 75013 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.838514", "2.370461"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.370461", "48.838514"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/30",
+        "fields": {
+            "salle": "1",
+            "nom": "Le Caminito",
+            "maj": "2012-10-22",
+            "arrondissement": "75013",
+            "adresse": "48 rue du Dessous des Berges 75013 Paris",
+            "comptoir": "1",
+            "lat_lon": ["48.828487", "2.372925"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.372925", "48.828487"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/31",
+        "fields": {
+            "salle": "-",
+            "nom": "Tamm Bara",
+            "maj": "2012-07-03",
+            "arrondissement": "75013",
+            "adresse": "7 rue Clisson 75013 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.829436", "2.365393"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.365393", "48.829436"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/33",
+        "fields": {
+            "salle": "-",
+            "nom": "Caprice caf\u00e9",
+            "maj": "2012-07-03",
+            "arrondissement": "75014",
+            "adresse": "12 avenue Jean Moulin 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.825905", "2.322363"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.322363", "48.825905"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/34",
+        "fields": {
+            "salle": "-",
+            "nom": "Denfert caf\u00e9",
+            "maj": "2012-09-10",
+            "arrondissement": "75014",
+            "adresse": "58 boulvevard Saint Jacques 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.834151", "2.333796"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.333796", "48.834151"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/35",
+        "fields": {
+            "salle": "-",
+            "nom": "Le petit club",
+            "maj": "2012-07-03",
+            "arrondissement": "75014",
+            "adresse": "55 rue de la tombe Issoire 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.829723", "2.333799"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.333799", "48.829723"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/36",
+        "fields": {
+            "salle": "-",
+            "nom": "le Zango",
+            "maj": "2012-06-27",
+            "arrondissement": "75014",
+            "adresse": "58 rue Daguerre 75014 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.835523", "2.325335"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.325335", "48.835523"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/38",
+        "fields": {
+            "salle": "-",
+            "nom": "bistrot les timbr\u00e9s",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "14 rue d'alleray 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.838137", "2.301183"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.301183", "48.838137"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/39",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Dupont",
+            "maj": "2012-11-05",
+            "arrondissement": "75015",
+            "adresse": "198 rue de la Convention 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "0.99",
+            "lat_lon": ["48.8372", "2.29606"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.29606", "48.8372"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/40",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Victor",
+            "maj": "2012-07-03",
+            "arrondissement": "75015",
+            "adresse": "10 boulevard Victor 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.835829", "2.278414"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.278414", "48.835829"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/45",
+        "fields": {
+            "salle": "1",
+            "nom": "Le drapeau de la fidelit\u00e9",
+            "maj": "2012-10-22",
+            "arrondissement": "75015",
+            "adresse": "21 rue Copreaux 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.841628", "2.307006"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.307006", "48.841628"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/46",
+        "fields": {
+            "salle": "-",
+            "nom": "Le General Beuret",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "9 Place du General Beuret 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.841681", "2.303056"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.303056", "48.841681"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/47",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Germinal",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "95 avenue Emile Zola 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.846807", "2.289323"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.289323", "48.846807"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/48",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Parc Vaugirard",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "358 rue de Vaugirard 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.835389", "2.292426"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.292426", "48.835389"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/50",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Zinc",
+            "maj": "2012-07-03",
+            "arrondissement": "75015",
+            "adresse": "61 avenue de la Motte Picquet 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.849273", "2.29823"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.29823", "48.849273"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/51",
+        "fields": {
+            "salle": "-",
+            "nom": "Les Artisans",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "106 rue Lecourbe 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.842864", "2.303196"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.303196", "48.842864"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/52",
+        "fields": {
+            "salle": "-",
+            "nom": "les montparnos",
+            "maj": "2012-06-27",
+            "arrondissement": "75015",
+            "adresse": "65 boulevard Pasteur 75015 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.840994", "2.31479"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.31479", "48.840994"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/53",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 antoine",
+            "maj": "2012-06-27",
+            "arrondissement": "75016",
+            "adresse": "17 rue Jean de la Fontaine 75016 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.851672", "2.273896"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.273896", "48.851672"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/56",
+        "fields": {
+            "salle": "1",
+            "nom": "Le BB (Bouchon des Batignolles)",
+            "maj": "2012-10-22",
+            "arrondissement": "75017",
+            "adresse": "2 rue Lemercier 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.888986", "2.319539"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.319539", "48.888986"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/57",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Village",
+            "maj": "2012-07-03",
+            "arrondissement": "75017",
+            "adresse": "182 rue de Courcelles 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.884369", "2.298044"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.298044", "48.884369"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/59",
+        "fields": {
+            "salle": "-",
+            "nom": "Pari's Caf\u00e9",
+            "maj": "2012-06-27",
+            "arrondissement": "75017",
+            "adresse": "174 avenue de Clichy 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.892795", "2.316297"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.316297", "48.892795"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/60",
+        "fields": {
+            "salle": "-",
+            "nom": "Petits Freres des Pauvres",
+            "maj": "2012-11-05",
+            "arrondissement": "75017",
+            "adresse": "47 rue de Batignolles 75017 Paris",
+            "terrasse": "-",
+            "comptoir": "0.45",
+            "lat_lon": ["48.885638", "2.319582"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.319582", "48.885638"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/62",
+        "fields": {
+            "salle": "1",
+            "nom": "Au bon coin",
+            "maj": "2012-10-18",
+            "arrondissement": "75018",
+            "adresse": "49 rue des Cloys 75018 Paris",
+            "terrasse": "1",
+            "comptoir": "1",
+            "lat_lon": ["48.892854", "2.339043"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.339043", "48.892854"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/63",
+        "fields": {
+            "salle": "1",
+            "nom": "Botak cafe",
+            "maj": "2012-07-03",
+            "arrondissement": "75018",
+            "adresse": "1 rue Paul albert 75018 Paris",
+            "terrasse": "1",
+            "comptoir": "1",
+            "lat_lon": ["48.886416", "2.345089"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.345089", "48.886416"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/64",
+        "fields": {
+            "salle": "1",
+            "nom": "Canopy Caf\u00e9 associatif",
+            "maj": "2012-10-22",
+            "arrondissement": "75018",
+            "adresse": "19 rue Pajol 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.891941", "2.363364"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.363364", "48.891941"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/66",
+        "fields": {
+            "salle": "-",
+            "nom": "L'Olive",
+            "maj": "2012-06-27",
+            "arrondissement": "75018",
+            "adresse": "8 rue L'Olive 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.890679", "2.361263"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.361263", "48.890679"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/67",
+        "fields": {
+            "salle": "-",
+            "nom": "Le Brio",
+            "maj": "2012-07-03",
+            "arrondissement": "75018",
+            "adresse": "216, rue Marcadet 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.891938", "2.333386"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.333386", "48.891938"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/69",
+        "fields": {
+            "salle": "1",
+            "nom": "Le M\u00fcller",
+            "maj": "2012-10-22",
+            "arrondissement": "75018",
+            "adresse": "11 rue Feutrier 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.886539", "2.34654"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.34654", "48.886539"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/70",
+        "fields": {
+            "salle": "1",
+            "nom": "Le petit Bretonneau",
+            "maj": "2012-10-22",
+            "arrondissement": "75018",
+            "adresse": "Le petit Bretonneau - \u00e0 l'int\u00e9rieur de l'H\u00f4pital 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1"
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/71",
+        "fields": {
+            "salle": "-",
+            "nom": "Le refuge",
+            "maj": "2012-06-27",
+            "arrondissement": "75018",
+            "adresse": "72 rue lamarck 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.890697", "2.333328"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.333328", "48.890697"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/74",
+        "fields": {
+            "salle": "1",
+            "nom": "Populettes",
+            "maj": "2012-10-22",
+            "arrondissement": "75018",
+            "adresse": "86 bis rue Riquet 75018 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.890036", "2.362265"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.362265", "48.890036"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/75",
+        "fields": {
+            "salle": "-",
+            "nom": "Le bar Fleuri",
+            "maj": "2012-07-03",
+            "arrondissement": "75019",
+            "adresse": "1 rue du Plateau 75019 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.877915", "2.385364"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.385364", "48.877915"]
+        }
+    },
+    {
+        "datasetid": "liste-des-cafes-a-un-euro",
+        "recordid": "cafe_production_csv/77",
+        "fields": {
+            "salle": "-",
+            "nom": "Caf\u00e9 Martin",
+            "maj": "2012-06-27",
+            "arrondissement": "75001",
+            "adresse": "2 place Martin Nadaud 75020 Paris",
+            "terrasse": "-",
+            "comptoir": "1",
+            "lat_lon": ["48.865125", "2.39505"]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["2.39505", "48.865125"]
+        }
+    }
+]

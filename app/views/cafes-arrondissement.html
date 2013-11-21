@@ -1,0 +1,40 @@
+
+<header>
+    <p>Sélectionnez un arrondissement :</p>
+    <div class="btn-group">
+        <button ng-repeat="ardt in ardts" ng-model="cafeSearch.ardt" btn-radio="ardt.cp"
+        ng-click="searchCafesInArdt(ardt.cp)" type="button" class="btn btn-primary">{{ardt.label}}
+    </button>
+</div>
+</header>
+
+
+<div ng-hide="!cafes">
+    <div>
+        Filtre sur nom du café : <input ng-model="cafeFilterNom">
+        Tri par :
+        <a href="" ng-click="cafeSort = 'fields.nom'">Nom</a> |
+        <a href="" ng-click="cafeSort = '-fields.maj'">Récent</a>
+        <select ng-model="cafeSort">
+            <option value="fields.nom">Nom</option>
+            <option value="-fields.maj">Date de mise à jour la plus récente</option>
+        </select>
+    </div>
+
+    <p>Nombre de cafés dans l'arrondissement : {{cafes.nhits}}</p>
+    <ul>
+        <li ng-repeat="cafe in cafes.records | filter:{'fields.nom':cafeFilterNom} | orderBy:cafeSort">
+            <p>
+                <b>{{cafe.fields.nom}}</b>
+                <span ng-hide="cafe.fields.comptoir != '1'" title="Comptoir"
+                class="glyphicon glyphicon-glass"></span>
+                <span ng-hide="cafe.fields.salle != '1'" title="Salle" class="glyphicon glyphicon-cutlery"></span>
+                <span ng-hide="cafe.fields.terrasse != '1'" title="Terrasse"
+                class="glyphicon glyphicon-leaf"></span>
+            </p>
+            <p>{{cafe.fields.adresse}}</p>
+            <p>Coordonnées géo : {{cafe.fields.lat_lon}}</p>
+            <p>Date de mise à jour : {{cafe.fields.maj | date:'MM/dd/yyyy'}}</p>
+        </li>
+    </ul>
+</div>
